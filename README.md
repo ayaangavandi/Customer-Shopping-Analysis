@@ -8,9 +8,7 @@ The workflow involved **Excel**, **Python**, **MySQL**, **Power BI**, and **AI-a
 
 ---
 
-## 📂 Dataset Summary  
-- **Total Rows:** 3,900  
-- **Columns:** 18  
+## 📂 Dataset Summary   
 - **Key Features:**  
   - Customer demographics → Age, Gender, Location, Subscription Status  
   - Purchase details → Item Purchased, Category, Purchase Amount, Season, Size, Colour  
